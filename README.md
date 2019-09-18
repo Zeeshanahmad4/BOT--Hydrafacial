@@ -63,6 +63,10 @@ pip install bs4
 ## Usage
 You can use this project to scrape spa and facial providers all around world. 
 
+## Includes Files
+1. Scraper.py Program
+2. output.csv DATA
+
 <!-- ROADMAP -->
 ## Roadmap
 See the [open issues](https://github.com/Zeeshanahmad4/BOT--Hydrafacial/issues) for a list of proposed features (and known issues).
