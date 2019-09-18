@@ -70,7 +70,6 @@ You can use this project to scrape spa and facial providers all around world.
 
 <!-- ROADMAP -->
 ## Roadmap
-
 See the [open issues](https://github.com/Zeeshanahmad4/BOT--Hydrafacial/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
@@ -86,14 +85,11 @@ Contributions are what make the open source community such an amazing place to b
 
 <!-- LICENSE -->
 ## License
-
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 ## Contact
-
 Zeeshan Ahmad - [my twitter](https://twitter.com/Zeeshan_Ahmad6) - ahmadzee26@gmail.com
-
 Project Link: [Projectlink](https://github.com/Zeeshanahmad4/BOT--Hydrafacial)
 
 
