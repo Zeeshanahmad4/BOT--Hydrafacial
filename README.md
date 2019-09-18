@@ -92,9 +92,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/Zeeshan_Ahmad6) - ahmadzee26@gmail.com
+Zeeshan Ahmad - [my twitter](https://twitter.com/Zeeshan_Ahmad6) - ahmadzee26@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/Zeeshanahmad4/BOT--Hydrafacial)
+Project Link: [Projectlink](https://github.com/Zeeshanahmad4/BOT--Hydrafacial)
 
 
 <!-- ACKNOWLEDGEMENTS -->
