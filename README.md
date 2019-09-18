@@ -64,8 +64,8 @@ pip install bs4
 You can use this project to scrape spa and facial providers all around world. 
 
 ## Includes Files
-1. Scraper.py Program
-2. output.csv DATA
+1. Scraper.py
+2. output.csv 
 
 <!-- ROADMAP -->
 ## Roadmap
