@@ -27,7 +27,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
 ![Product Name Screen Shot](https://github.com/Zeeshanahmad4/BOT--Hydrafacial/blob/master/main1.jpg)
 We needs only 2 fields so scraping only Names,Phon
 
@@ -38,9 +37,8 @@ We needs only 2 fields so scraping only Names,Phon
 
 <!-- GETTING STARTED -->
 ## Getting Started
-### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+### Prerequisites
 * beautifulsoup
 ```sh
 pip install bs4
@@ -48,8 +46,6 @@ pip install bs4
 
 
 ### Installation
-
-
 1. Clone the repo
 ```sh
 git clone https://github.com/Zeeshanahmad4/BOT--Hydrafacial.git
@@ -65,7 +61,6 @@ pip install bs4
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-
 You can use this project to scrape spa and facial providers all around world. 
 
 <!-- ROADMAP -->
