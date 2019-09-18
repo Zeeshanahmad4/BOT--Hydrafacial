@@ -35,3 +35,13 @@ We needs only 2 fields so scraping only Names,Phon
 * [Python](https://www.python.org/)
 * [Beautifullsoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 * [csv](https://en.wikipedia.org/wiki/Comma-separated_values)
+
+<!-- GETTING STARTED -->
+## Getting Started
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+* beautifulsoup
+```sh
+pip install bs4
+```
