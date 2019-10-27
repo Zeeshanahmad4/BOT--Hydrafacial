@@ -13,8 +13,9 @@
 <table>
   <tr>
     <th>
+      <a href="/">
     <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/edit1.jpg" alt="Logo" width="182" height="90"
-  </th>
+ </a> </th>
     <th>  
     <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/edit2.jpg" alt="Logo" width="182" height="90">
   </th>
