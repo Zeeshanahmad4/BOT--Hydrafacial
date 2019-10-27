@@ -42,11 +42,11 @@
  </a> </th>
     <th>
       <a href="http://zeeshanahmad.me/">
-    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/edit3.jpg" alt="Logo" width="182" height="90">
+    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/Kaggle_logo.png" alt="Logo" width="182" height="90">
  </a> </th>
     <th>
       <a href="http://zeeshanahmad.me/">
-    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/edit4.jpg" alt="Logo" width="182" height="90">
+    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/twitter-logo-png-open-2000.png" alt="Logo" width="182" height="90">
  </a> </th>
     </tr>
  </table>
