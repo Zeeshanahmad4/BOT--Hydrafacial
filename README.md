@@ -13,7 +13,7 @@
 <table>
   <tr>
     <th>
-      <a target="_blank" rel="noopener noreferrer" href="http://zeeshanahmad.me/" >
+      <ahref="http://zeeshanahmad.me/" >
     <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/edit1.jpg" alt="Logo" width="182" height="90">
  </a> </th>
     <th>
@@ -30,22 +30,26 @@
  </a> </th>
     </tr>
  </table>
-    <table>
-    <tr>
-        <th>  <a href="https://github.com/Zeeshanahmad4/BOT--Hydrafacial">
-    <img src="https://github.com/Zeeshanahmad4/BOT--Hydrafacial/blob/master/208498-OZT9V0-402.png" alt="Logo" width="120" height="150">
-  </a></th>
-        <th>  <a href="https://github.com/Zeeshanahmad4/BOT--Hydrafacial">
-    <img src="https://github.com/Zeeshanahmad4/BOT--Hydrafacial/blob/master/208498-OZT9V0-402.png" alt="Logo" width="120" height="150">
-  </a></th>
-        <th>  <a href="https://github.com/Zeeshanahmad4/BOT--Hydrafacial">
-    <img src="https://github.com/Zeeshanahmad4/BOT--Hydrafacial/blob/master/208498-OZT9V0-402.png" alt="Logo" width="120" height="150">
-  </a></th>
-        <th>  <a href="https://github.com/Zeeshanahmad4/BOT--Hydrafacial">
-    <img src="https://github.com/Zeeshanahmad4/BOT--Hydrafacial/blob/master/208498-OZT9V0-402.png" alt="Logo" width="120" height="150">
-  </a></th>
-  </tr>
-</table>
+<table>
+  <tr>
+    <th>
+      <ahref="http://zeeshanahmad.me/" >
+    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/edit1.jpg" alt="Logo" width="182" height="90">
+ </a> </th>
+    <th>
+      <a href="http://zeeshanahmad.me/">
+    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/edit2.jpg" alt="Logo" width="182" height="90">
+ </a> </th>
+    <th>
+      <a href="http://zeeshanahmad.me/">
+    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/edit3.jpg" alt="Logo" width="182" height="90">
+ </a> </th>
+    <th>
+      <a href="http://zeeshanahmad.me/">
+    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/edit4.jpg" alt="Logo" width="182" height="90">
+ </a> </th>
+    </tr>
+ </table>
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
