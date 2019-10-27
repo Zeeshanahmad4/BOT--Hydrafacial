@@ -12,18 +12,18 @@
 
 <table>
   <tr>
-    <th>  <a href="https://github.com/Zeeshanahmad4/BOT--Hydrafacial">
+    <th>
     <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/edit1.jpg" alt="Logo" width="182" height="90"
-  </a></th>
-    <th>  <a href="https://github.com/Zeeshanahmad4/BOT--Hydrafacial">
+  </th>
+    <th>  
     <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/edit2.jpg" alt="Logo" width="182" height="90">
-  </a></th>
-     <th>  <a href="https://github.com/Zeeshanahmad4/BOT--Hydrafacial">
+  </th>
+     <th>  
     <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/edit3.jpg" alt="Logo" width="182" height="90">
-  </a></th>
-     <th>  <a href="https://github.com/Zeeshanahmad4/BOT--Hydrafacial">
+  </th>
+     <th>  
     <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/edit4.jpg" alt="Logo" width="182" height="90">
-  </a></th>
+  </th>
     </tr>
  </table>
     <table>
