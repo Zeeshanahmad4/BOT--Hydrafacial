@@ -13,7 +13,7 @@
 <table>
   <tr>
     <th>
-      <a href="http://zeeshanahmad.me/">
+      <a href="http://zeeshanahmad.me/" target="_blank">
     <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/edit1.jpg" alt="Logo" width="182" height="90">
  </a> </th>
     <th>
