@@ -13,16 +13,16 @@
 <table>
   <tr>
     <th>  <a href="https://github.com/Zeeshanahmad4/BOT--Hydrafacial">
-    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/edit1.jpg" alt="Logo" width="182" height="92"
+    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/edit1.jpg" alt="Logo" width="182" height="90"
   </a></th>
     <th>  <a href="https://github.com/Zeeshanahmad4/BOT--Hydrafacial">
-    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/edit2.jpg" alt="Logo" width="182" height="92">
+    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/edit2.jpg" alt="Logo" width="182" height="90">
   </a></th>
      <th>  <a href="https://github.com/Zeeshanahmad4/BOT--Hydrafacial">
-    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/edit3.jpg" alt="Logo" width="182" height="92">
+    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/edit3.jpg" alt="Logo" width="182" height="90">
   </a></th>
      <th>  <a href="https://github.com/Zeeshanahmad4/BOT--Hydrafacial">
-    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/edit3.jpg" alt="Logo" width="182" height="92">
+    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/edit4.jpg" alt="Logo" width="182" height="90">
   </a></th>
     </tr>
  </table>
