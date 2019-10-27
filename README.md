@@ -33,7 +33,7 @@
 <table>
   <tr>
     <th>
-      <ahref="https://www.upwork.com/freelancers/~0180a61cf01f9bc71d" >
+      <a href="https://www.upwork.com/freelancers/~0180a61cf01f9bc71d" >
     <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/download.png" alt="Logo" width="182" height="80">
  </a> </th>
     <th>
