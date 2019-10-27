@@ -13,9 +13,7 @@
 | Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
-|   <a href="https://github.com/Zeeshanahmad4/BOT--Hydrafacial">
-    <img src="https://github.com/Zeeshanahmad4/BOT--Hydrafacial/blob/master/208498-OZT9V0-402.png" alt="Logo" width="120" height="150">
-  </a> |   <a href="https://github.com/Zeeshanahmad4/BOT--Hydrafacial">
+| Paragraph |   <a href="https://github.com/Zeeshanahmad4/BOT--Hydrafacial">
     <img src="https://github.com/Zeeshanahmad4/BOT--Hydrafacial/blob/master/208498-OZT9V0-402.png" alt="Logo" width="120" height="150">
   </a> |
 
