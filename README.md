@@ -26,7 +26,7 @@
  </a> </th>
     <th>
       <a href="http://zeeshanahmad.me/">
-    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/edit4.jpg" alt="Logo" width="182" height="90">
+    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/edit4.jpg" alt="Logo" width="182  " height="90">
  </a> </th>
     </tr>
  </table>
@@ -38,7 +38,7 @@
  </a> </th>
     <th>
       <a href="http://zeeshanahmad.me/">
-    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/edit2.jpg" alt="Logo" width="182" height="90">
+    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/linked-in-3200.jpg" alt="Logo" width="182" height="90">
  </a> </th>
     <th>
       <a href="http://zeeshanahmad.me/">
