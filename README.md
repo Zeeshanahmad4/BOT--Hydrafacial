@@ -34,15 +34,15 @@
   <tr>
     <th>
       <ahref="http://zeeshanahmad.me/" >
-    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/download.png" alt="Logo" width="182" height="90">
+    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/download.png" alt="Logo" width="182" height="80">
  </a> </th>
     <th>
       <a href="http://zeeshanahmad.me/">
-    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/linked-in-3200.jpg" alt="Logo" width="182" height="90">
+    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/linked-in-3200.jpg" alt="Logo" width="182" height="80">
  </a> </th>
     <th>
       <a href="http://zeeshanahmad.me/">
-    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/Kaggle_logo.png" alt="Logo" width="182" height="90">
+    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/Kaggle_logo.png" alt="Logo" width="182" height="80">
  </a> </th>
     <th>
       <a href="http://zeeshanahmad.me/">
